@@ -1,2 +1,2 @@
 #!bin/bash
-usermod -aG docker ec2-user
+usermod -aG docker ec2-user 
